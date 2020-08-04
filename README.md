@@ -2,7 +2,7 @@
 
 # Across the Great Wall
 
-we ~~can~~ used to reach every corner of the world.
+we ~~can~~ used to be able to reach every corner of the world.
 
 ## Specs
 
