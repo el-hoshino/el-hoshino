@@ -17,9 +17,6 @@ we ~~can~~ used to be able to reach every corner of the world.
 
 [![QuickshaRe](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=QuickshaRe)](https://github.com/el-hoshino/QuickshaRe)
 [![DangerSwiftHammer](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=DangerSwiftHammer)](https://github.com/el-hoshino/DangerSwiftHammer)
-
-### Under Development
-
 [![HowAwayAreYou](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=HowAwayAreYou)](https://github.com/el-hoshino/HowAwayAreYou)
 
 ### Neglected
