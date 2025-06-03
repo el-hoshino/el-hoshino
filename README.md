@@ -17,9 +17,6 @@ we ~~can~~ used to be able to reach every corner of the world.
 
 [![QuickshaRe](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=QuickshaRe)](https://github.com/el-hoshino/QuickshaRe)
 [![Tardiness](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=Tardiness)](https://github.com/el-hoshino/Tardiness)
-[![DangerSwiftHammer](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=DangerSwiftHammer)](https://github.com/el-hoshino/DangerSwiftHammer)
-[![HowAwayAreYou](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=HowAwayAreYou)](https://github.com/el-hoshino/HowAwayAreYou)
-[![MetadataScanner](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=MetadataScanner)](https://github.com/el-hoshino/MetadataScanner)
 
 ### Neglected
 
@@ -27,6 +24,9 @@ we ~~can~~ used to be able to reach every corner of the world.
 [![hanako](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=hanako)](https://github.com/el-hoshino/hanako)
 [![megumi](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=megumi)](https://github.com/el-hoshino/megumi)
 [![PlaygroundWithiPhoneXScreen](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=PlaygroundWithiPhoneXScreen)](https://github.com/el-hoshino/PlaygroundWithiPhoneXScreen)
+[![DangerSwiftHammer](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=DangerSwiftHammer)](https://github.com/el-hoshino/DangerSwiftHammer)
+[![HowAwayAreYou](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=HowAwayAreYou)](https://github.com/el-hoshino/HowAwayAreYou)
+[![MetadataScanner](https://github-readme-stats.vercel.app/api/pin/?username=el-hoshino&repo=MetadataScanner)](https://github.com/el-hoshino/MetadataScanner)
 
 and a lot more...
 
